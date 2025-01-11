@@ -36,11 +36,15 @@ This model produces 86.62% accuracy on training data and 85.75% on validation da
 These results show that Model 11 provides the best performance compared to other models for sentiment analysis.
 
 ## 🚀 How to Run the Program
-1. Clone the repository.
-2. Create virtual environment
-3. Install dependencies from [requirements.txt] (https://github.com/anasafiraa/sentiment_analysis_using_bilstm_word2vec/blob/main/requirements.txt
-4. Download a model file and put inside assets folder. [Download Model] (https://drive.google.com/file/d/1V2vOR4YrtujSGmzovQiZgQsxqI9OsfLP/view?usp=drive_link)
-5. Just run the app python -u streamlit run ["main.py"] (https://github.com/anasafiraa/sentiment_analysis_using_bilstm_word2vec/blob/main/main.py)
+<ol>
+    <li>Clone the repository.</li>
+    <li>Create a virtual environment.</li>
+    <li>Install dependencies from <a href="https://github.com/anasafiraa/sentiment_analysis_using_bilstm_word2vec/blob/main/requirements.txt">requirements.txt</a>.</li>
+    <li>Download a model file and put it inside the assets folder. <a href="https://drive.google.com/file/d/1V2vOR4YrtujSGmzovQiZgQsxqI9O5fLP/view?usp=drive_link">Download Model</a>.</li>
+    <li>Just run the app with:
+        <pre>python -u streamlit run "main.py"</pre>
+    </li>
+</ol>
 
 # CONTACT
 anasafira579@gmail.com
